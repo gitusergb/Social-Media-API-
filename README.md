@@ -33,3 +33,7 @@ curl --request POST \
 - Also used MongoDB Atlas for this.
 - one can read, update, and delete posts. 
 - user can like , subscribe , and comment on the posts.
+- [video](https://drive.google.com/file/d/1J0PRUcpi-2B6ZJK6CLGjcZnHvJthVTXu/view?usp=drive_link)
+
+
+<!-- given: https://docs.google.com/document/d/1RAyfRshU_Yg5UqaXBn69ublBzq2DRd7-S2SvKGwCLLs/edit#heading=h.30j0zll -->
