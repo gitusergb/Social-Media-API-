@@ -15,10 +15,11 @@ Make sure you have Node.js installed on your machine. You can download it from [
 
    git clone https://github.com/gitusergb/Social-Media-API-
 
-### Backend link :
+### Backend link : https://social-media-api-diqa.onrender.com/
 
 ## Backend
 - Server is running at http://localhost:3000
+- apollo server link : https://social-media-api-diqa.onrender.com/
 - I had to build an Express application. 
 - used  https://studio.apollographql.com/sandbox/explorer for api endpoints
 - Also used MongoDB Atlas for this.
