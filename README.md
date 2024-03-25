@@ -20,6 +20,14 @@ Make sure you have Node.js installed on your machine. You can download it from [
 ## Backend
 - Server is running at http://localhost:3000
 - apollo server link : https://social-media-api-diqa.onrender.com/
+
+```
+curl --request POST \
+  --header 'content-type: application/json' \
+  --url 'https://social-media-api-diqa.onrender.com/' \
+  --data '{"query":"query { __typename }"}'
+```
+
 - I had to build an Express application. 
 - used  https://studio.apollographql.com/sandbox/explorer for api endpoints
 - Also used MongoDB Atlas for this.
