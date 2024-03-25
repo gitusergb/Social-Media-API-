@@ -13,7 +13,7 @@ Make sure you have Node.js installed on your machine. You can download it from [
 
 1. Clone the repository.
 
-   git clone https://github.com/gitusergb/*****
+   git clone https://github.com/gitusergb/Social-Media-API-
 
 ### Backend link :
 
