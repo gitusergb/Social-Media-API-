@@ -7,7 +7,7 @@ const typeDefs = require('./graphql/typeDefs');
 const resolvers = require('./graphql/resolvers');
 const {connection} = require("./db")
 
-const {MONGODB}= require('./config.js')
+// const {MONGODB}= require('./config.js')
 const pubsub = new PubSub();
 
 const PORT = process.env.port||4000;
