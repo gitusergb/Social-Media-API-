@@ -3,7 +3,7 @@
 ## Overview
 - This project involves the development of a Social Media API using NodeJS. 
 - The focus is on demonstrating proficiency in Data Structures and Algorithms (DSA), Object-Oriented Programming (OOP) concepts, ExpressJS, and GraphQL. 
-- The API simulates basic functionalities of a social media platform, including user registration, posting content, and following other users. 
+- The API will simulate basic functionalities of a social media platform, such as user registration, posting comment, and like other users comment ,Integrate a GraphQL endpoint for querying user profiles ,posts. Demonstrated design and executed complex queries using GraphQL. 
 
 ### Prerequisites
 
